@@ -1,4 +1,4 @@
-package com.chriscodebytes.duc;
+package com.dharmacode.duc;
 
 import com.google.common.primitives.Longs;
 
