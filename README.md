@@ -1,5 +1,9 @@
 # Deterministic Long to UUID Converter
+
+Main article: https://dharma-code.com/wordpress/index.php/2024/04/23/deterministic-uuid-converter-in-java/
+
 Presents a class that converts numeric primary keys to UUIDs deterministically with an optional secret seed.
+
 ## The scenario
 
 You have been tasked to migrate the primary key of an entity from Long to UUID.
